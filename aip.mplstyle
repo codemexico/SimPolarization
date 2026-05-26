@@ -1,0 +1,21 @@
+# Local AIP-like overrides layered on top of SciencePlots' "science" style.
+figure.figsize : 3.37, 2.35
+figure.dpi : 150
+savefig.dpi : 600
+
+font.family : serif
+font.serif : Times New Roman, Times, DejaVu Serif
+font.size : 8
+axes.labelsize : 8
+axes.titlesize : 8
+legend.fontsize : 7
+xtick.labelsize : 7
+ytick.labelsize : 7
+
+axes.linewidth : 0.5
+grid.linewidth : 0.35
+lines.linewidth : 1.0
+lines.markersize : 3
+
+legend.frameon : False
+axes.prop_cycle : (cycler('color', ['000000', 'D55E00', '0072B2', '009E73']) + cycler('linestyle', ['-', '--', '-.', ':']))

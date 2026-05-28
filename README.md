@@ -129,7 +129,7 @@ donde:
 - `r` es la coordenada radial.
 - `phi` es la coordenada angular.
 - `w0` es el ancho característico del haz.
-- `m` representa el orden azimutal del campo.
+- `m` representa la carga topológica.
 
 Después, al campo se le asigna una polarización mediante vectores de Jones. Los estados considerados son:
 
